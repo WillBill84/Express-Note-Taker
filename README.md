@@ -38,9 +38,12 @@ Library used:
 
 ## View Project
 
-live version
+live version:
 https://will-express-note-taker.herokuapp.com/
 
+Screenshot:
+
+![image](https://user-images.githubusercontent.com/78286026/118091857-aecacc00-b40e-11eb-927c-e26a6ec0a95b.png)
 
 
 
